@@ -1,24 +1,11 @@
 package com.muko;
+import com.muko.Coffee; // local package
 
 public class Main {
     public static void main(String[] args) {
+        Coffee coffee = new Coffee("Latte");
+        System.out.println(coffee.getType());
 
-        int cadence = 0;
-        int[] anArray = new int[10];
-        anArray[0] = 100;
-        System.out.println("arr[0]: " + anArray[0]);
-
-        String[][] names = {
-                {
-                    "Mr. ", "Mrs. ", "Ms. "
-                },
-                {
-                    "Smith", "Jones"
-                }
-        };
-
-        System.out.println("Mr Smith in Theory: " + names[0][0]+ names[1][0]);
-
-        System.out.println("Hello, World!");
     }
 }
+
