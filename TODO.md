@@ -2,11 +2,11 @@
 
 This is a list of concepts that this project should cover at the very least once.
 
-- [ ] OOP Concepts (Review)
-  - [ ] Inheritance
-  - [ ] Polymorphism
-  - [ ] Encapsulation
-  - [ ] Abstraction
+- [x] OOP Concepts (Review)
+  - [x] Inheritance
+  - [x] Polymorphism
+  - [x] Encapsulation
+  - [x] Abstraction
 - [ ] Data Structures (Review)
   - [ ] Arrays
   - [ ] Linked Lists
@@ -15,6 +15,15 @@ This is a list of concepts that this project should cover at the very least once
   - [ ] Trees
 - [ ] Algorithms (Review)
   - [ ] Searching
+    - [ ] Linear Search
+    - [ ] Binary Search
   - [ ] Sorting
+    - [ ] Bubble Sort
+    - [ ] Merge Sort
+    - [ ] Selection Sort
+    - [ ] Insertion Sort
   - [ ] Recursion
+    - [ ] Factorial
+    - [ ] Fibonacci
   - [ ] Dynamic Programming
+  - [ ] Greedy Algorithms
