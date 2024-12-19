@@ -8,14 +8,14 @@ This is a list of concepts that this project should cover at the very least once
   - [x] Encapsulation
   - [x] Abstraction
 - [ ] Data Structures (Review)
-  - [ ] Arrays
+  - [x] Arrays
   - [ ] Linked Lists
   - [ ] Stacks
   - [ ] Queues
   - [ ] Trees
 - [ ] Algorithms (Review)
   - [ ] Searching
-    - [ ] Linear Search
+    - [x] Linear Search
     - [ ] Binary Search
   - [ ] Sorting
     - [ ] Bubble Sort

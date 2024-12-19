@@ -1,7 +1,7 @@
 package com.muko.dsa;
 
 public class Array {
-    public static int[] elements = new int[10]; // Can be accessed WITHOUT having to instanciate the class, very useful!
+    public static int[] elements = new int[10]; // Can be accessed WITHOUT having to instance the class, very useful!
 
     public static void main(String[] args) {
         for (int i = 0; i < elements.length; i++) {
