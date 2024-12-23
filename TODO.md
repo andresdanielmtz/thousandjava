@@ -10,6 +10,8 @@ This is a list of concepts that this project should cover at the very least once
 - [ ] Data Structures (Review)
   - [x] Arrays
   - [ ] Linked Lists
+    - [x] STD
+    - [ ] Proper implementation
   - [ ] Stacks
   - [ ] Queues
   - [ ] Trees
