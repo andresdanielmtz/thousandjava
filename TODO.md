@@ -16,16 +16,16 @@ This is a list of concepts that this project should cover at the very least once
   - [ ] Queues
   - [ ] Trees
 - [ ] Algorithms (Review)
-  - [ ] Searching
+  - [x] Searching
     - [x] Linear Search
-    - [ ] Binary Search
+    - [x] Binary Search
   - [ ] Sorting
-    - [ ] Bubble Sort
+    - [x] Bubble Sort
     - [ ] Merge Sort
     - [ ] Selection Sort
     - [ ] Insertion Sort
-  - [ ] Recursion
-    - [ ] Factorial
-    - [ ] Fibonacci
-  - [ ] Dynamic Programming
+  - [x] Recursion
+    - [x] Factorial
+    - [x] Fibonacci
+  - [x] Dynamic Programming
   - [ ] Greedy Algorithms
